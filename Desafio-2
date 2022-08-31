@@ -1,0 +1,21 @@
+Baixar o repositório
+Criar uma nova Branch denominada "Desafio2"
+Criar diretório denominado "Desafio Git-Github"
+Dentro do diretório "Desafio Git-Github", criar arquivo "GIT" contento explicações dos comandos/situações abaixo:
+
+git update
+git install git
+git --version
+git config --global user.name
+git config --global user.email
+Comando para baixar repositório externo
+Comando para criar branch
+Comando para listar branchs
+git status
+Comando para criar commit
+git log
+git show
+Comando para criar PR
+Diferença entre os comandos "git checkout teste-1" para "git checkout -b "teste-2""
+
+Gerar PR das alterações realizadas

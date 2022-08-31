@@ -1,0 +1,9 @@
+Desafio AWS-EC2
+
+Criar instancia t2.micro na aws
+Acessar a mesma e instalar o git
+Clonar este repositório
+Criar branch Desafio3
+Criar diretório "Desafio-AWS"
+Acessar o diretório "Desafio-AWS", criar arquivo denominado "AWS" contendo explicação detalhando os passos anteriores 
+Gerar PR das alterações realizadas
