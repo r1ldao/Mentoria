@@ -1,0 +1,68 @@
+Desafio AWS-EC2
+
+
+                       Criar instancia t2.micro na aws
+-Realizei a criação da instacia através da AWS sob orientaçã
+ 
+                   Acessar a mesma e instalar o git
+-acessei a instancia e executei os comandos necessários para a realização do desafio.
+
+                 Clonar este repositório
+-Clonei o repositório diretamente através do comando aprendido (git clone)
+
+                        Criar branch Desafio3
+-Realizei a criação da Branch para utilizar e editar os arquivos e VIM
+
+                    Criar diretório "Desafio-AWS"
+-Realizei a criação do diretório através do comando MKDIR
+
+               Acessar o diretório "Desafio-AWS", criar arquivo denominado "AWS" contendo explicação detalhando os passos anteriores 
+-acessei o diretório através do comando cd(diretório utilizado) e editei os arquivos através do VIM
+
+                  Gerar PR das alterações realizadas 
+-Gerei o Pr atraves dos comandos 
+
+-git add .
+-git commit -m "criação do diretório desafio AWS"
+-git push origin Desafio
+
+
+
+Segue comandos utilizados para realizar a atividade
+
+
+sh/   
+2  ls
+3  ls -la
+4  ls -lhart
+5  cat authorized_keys
+6  ssh-keygen -t rsa
+7  ls -lhart
+8  cat id_rsa.pub 
+9  cd .   
+10  cd ..    
+11  ls -l 
+12  git init   
+13  git config --global user.name "GuilhermeSenac99"                                                  
+14  git config --global user.email "guilhermellos@yahoo.com.br" 
+15  mkdir source
+16  cd source/ 
+17  git clone git@github.com:r1ldao/Mentoria.git
+18  ls  
+19  cd mentoria
+20  cd Mentoria
+21  ls 
+22  cat Desafio-3
+23  git pull
+24  git branch Desafio3
+25  git status  
+26  git checkout -b Desafio3
+27  git checkout Desafio3
+28  git status
+29  mkdir Desafio-AWS
+30  ls 
+31  cd Desafio-AWS/
+32  touch AWS
+33  vim 
+34  vim AWS 
+35  history
